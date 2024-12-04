@@ -39,6 +39,7 @@ From the above characteristic table, we can directly write the next state equati
  Developed by:Sukanth K R 
  
  RegisterNumber:24000723
+ 
 **RTL LOGIC FOR FLIPFLOPS**
 ![WhatsApp Image 2024-12-04 at 11 13 13 PM](https://github.com/user-attachments/assets/66950bfa-54b9-423a-830e-a0e289e060eb)
 
@@ -46,4 +47,5 @@ From the above characteristic table, we can directly write the next state equati
 ![WhatsApp Image 2024-12-04 at 11 13 30 PM](https://github.com/user-attachments/assets/443f2976-7035-4c30-b264-cf1629fe0589)
 
 **RESULTS**
+
 Thus the RTL Schematic and Timing Waveform fo T-Flipflop has been verified and implemented
