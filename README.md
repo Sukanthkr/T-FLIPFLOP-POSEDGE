@@ -39,6 +39,7 @@ From the above characteristic table, we can directly write the next state equati
  Developed by:Sukanth K R 
  
  RegisterNumber:24000723
+
  
 **RTL LOGIC FOR FLIPFLOPS**
 ![WhatsApp Image 2024-12-04 at 11 13 13 PM](https://github.com/user-attachments/assets/66950bfa-54b9-423a-830e-a0e289e060eb)
